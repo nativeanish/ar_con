@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "@types/node": "^18.6.5",
+    "@types/react": "^18.0.17",
+    "@types/react-dom": "^18.0.6",
+    "arconnect": "^0.4.2",
+    "arweave": "1.11.4",
+    "parcel": "^2.7.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.7.4",
+    "warp-contracts": "^1.1.14",
+    "zustand": "^4.0.0"
+  },
+  "scripts": {
+    "dev": "npx parcel public/index.html"
+  },
+  "devDependencies": {
+    "constants-browserify": "^1.0.0",
+    "crypto-browserify": "^3.12.0",
+    "events": "^3.3.0",
+    "process": "^0.11.10",
+    "stream-browserify": "^3.0.0"
+  }
+}
